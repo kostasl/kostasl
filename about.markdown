@@ -1,11 +1,8 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
-
-This is an attempt to produce an online place for outreach, where I get to introduce my self and share:  ideas, thoughts and projects from neuroscience to hacker projects.  
-
 
 ## Research Focus
 
