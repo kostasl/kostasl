@@ -1,7 +1,7 @@
 ---
 title: Publications
 subtitle: a list of my publications
-layout: "default"
+layout: "page"
 icon: fa-book
 order: 3
 ---
