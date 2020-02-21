@@ -25,12 +25,12 @@ I feel lucky to live at time and place where open-source hardware and micro-cont
 
 ## Software
 I am a proponent of open-source and in love with its accessibility and diversity. 
-If you don't use them already I suggest finding the courage and move out of comfort zone, discover Linux, by installing Ubuntu as your Operating system.
-Write beautiful manuscripts and dissertations with [Latex][https://www.latex-project.org/]
+If you don't use them already I suggest finding the courage and move out of comfort zone, discover Linux, by installing [Ubuntu](https://ubuntu.com/download/desktop) as your operating system.
+Write beautiful manuscripts and dissertations with [Latex](https://www.latex-project.org/)
 
-My latest discovery was [jekyll][jekyll-organization] /
+My latest discovery was 
 [jekyll](https://github.com/jekyll/jekyll),  while I was looking for a good way to make this simple website.
  
 This website was created with Jekyll, and it uses the prologue theme. Find out more at [jekyllrb.com](https://jekyllrb.com/)
-You can find the source code for Jekyll at GitHub:
-[jekyll-organization]: https://github.com/jekyll
+You can find the source code for Jekyll on GitHub 
+[jekyll-organization]:(https://github.com/jekyll)
