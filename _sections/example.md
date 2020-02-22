@@ -1,21 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-
-layout: page
+title: MK Example
+icon: fa-th
+order: 2
 ---
-
-
-This is an _attempt_ to produce an online place for outreach, where I get to introduce my self and share:  ideas, thoughts and projects from neuroscience to hacker projects.  
-
-[Publications](./publications.md).
-
-
-[Reading list](./reading-list.md).
-
-
-
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
