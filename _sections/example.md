@@ -1,9 +1,10 @@
 ---
 title: MK Example
 icon: fa-th
-order: 2
+order: 5
 ---
 
+<!--
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Header 1
@@ -99,7 +100,8 @@ end
 
 ### Definition lists can be used with HTML syntax.
 
-<dl>
+<p align="left">
+<dl align="left">
 <dt>Name</dt>
 <dd>Godzilla</dd>
 <dt>Born</dt>
@@ -109,7 +111,7 @@ end
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
-
+</p>
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
@@ -117,3 +119,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
