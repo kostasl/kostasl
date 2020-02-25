@@ -12,7 +12,7 @@ Following those studies, I returned to Greece for my compulsory national service
  The last few months I was posted in the general army directive's informatics department where I could offer by coding software for the army, in peace.
  
 After my release, I worked as an electronics engineer in industry for a year and then returned to Southampton to start a PhD in computational neuroscience.
-
+My PhD thesis focused was purely theoretical and focused on a prominent problem of episodic-like memory systems: how to maintain old memories in the face of interference by the continuous encoding of new memories. This notorious problem is also known in the neural networks literature as the _plasticity vs stability dilemma_, and different plasticity rules operating at the level of the synapse can have profound implications on a memory system's capacity to recall stored memories.  
 
 [_Continued_]
 
