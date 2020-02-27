@@ -6,7 +6,7 @@ icon: fa-book
 order: 3
 ---
 
-This is still in the making, but in any case here I intend to list all publication contributions and note how they intersect with the main focus [see About]({{ site.baseurl }}{% link about.markdown %}): 
+This is still in the making, but in any case here I intend to list all publication contributions and note how they intersect with the main focus [see Research](#research-focus): 
 
 1. Using an insect mushroom body circuit to encode route memory in complex natural environments
 2. Continuous lateral oscillations as a core mechanism for taxis in Drosophila larvae
