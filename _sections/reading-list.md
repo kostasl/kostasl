@@ -6,7 +6,7 @@ icon: fa-book
 order: 4
 ---
 
-I love books! Here are some I'm reading now:
+I love books! Here are some that I've read or reading now:
 
 1. David Graeber: *Debpt the first 5000 years*
 2. Daniel Kahneman: "Thinking Fast and Slow"
