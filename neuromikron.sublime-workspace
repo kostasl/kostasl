@@ -104,7 +104,7 @@
 			"file": "_sections/reading-list.md",
 			"settings":
 			{
-				"buffer_size": 329,
+				"buffer_size": 343,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -113,19 +113,19 @@
 			"file": "_sections/bio.md",
 			"settings":
 			{
-				"buffer_size": 1472,
+				"buffer_size": 2038,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"contents": "---\nlayout: page\ntitle: About\npermalink: /about/\norder : 2\n---\n\n## Projects\n\nI am easily taken in by engineering projects and do-it-yourself gadgets. My undergraduate studies where in electrical-electronic engineering and I have not lost the bug for tech, even though I fell in love with biology.\nI take opportunities to build my own experimental apparatus when needed (link to  projects [soon]).\nI feel lucky to live at time and place where open-source hardware and micro-controllers are abundantly available and very affordable. If only I was a teeneger again!\n\n\n## Software\nI am a proponent of open-source and in love with its accessibility and diversity. \nIf you don't use them already I suggest finding the courage and move out of comfort zone, discover Linux, by installing [Ubuntu](https://ubuntu.com/download/desktop) as your operating system.\nWrite beautiful manuscripts and dissertations with [Latex](https://www.latex-project.org/)\n\nMy latest discovery was \n[jekyll](https://github.com/jekyll/jekyll),  while I was looking for a good way to make this simple website.\n \nThis website was created with Jekyll, and it uses the prologue theme. Find out more at [jekyllrb.com](https://jekyllrb.com/)\nYou can find the source code for Jekyll on GitHub \n[jekyll-organization]:(https://github.com/jekyll)\n",
+			"contents": "---\nlayout: blog\ntitle:  The Blog (To be) \npermalink: /blog/\norder : 2\n---\n\nThere is nothing here - But a glimpse of motivation to start writing.",
 			"file": "about.markdown",
-			"file_size": 1778,
-			"file_write_time": 132270960070460014,
+			"file_size": 145,
+			"file_write_time": 132272756379686951,
 			"settings":
 			{
-				"buffer_size": 1306,
+				"buffer_size": 145,
 				"line_ending": "Unix"
 			}
 		},
@@ -151,16 +151,19 @@
 			"file": "_sections/publications.md",
 			"settings":
 			{
-				"buffer_size": 1279,
+				"buffer_size": 1254,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
+			"contents": "---\ntitle: Research focus\nicon: fa-th\norder: 5\n---\n\n\nMy research aims to understand how brains operate by studying simple behaviours to uncover the mechanisms and principles of operation.\nThis is done while taking into account the ecological rationality of the specific behaviours and the possible heurestic computations available to the animal in that context.\nThis understanding is to be encapsulated by minimal models that characterize the core mechanisms of how embodied nervous systems allow for cognition and produce goal directed behaviour. \nThis approach I believe provides a promissing route to a theoretical framework that willl allow for converting brain data into fundamental knowledge and organising principles of how sensory stimuli drive behaviour.\n\n\nNervertheless I am fascinated by diverse areas such as immune systems, ecology and neural development and circuit assembly,  although the opportunity and skills to work on such things has yet to arrive.      \n\n",
 			"file": "_sections/research-focus.md",
+			"file_size": 977,
+			"file_write_time": 132272805998851071,
 			"settings":
 			{
-				"buffer_size": 720,
-				"encoding": "UTF-8",
+				"buffer_size": 976,
 				"line_ending": "Unix"
 			}
 		},
@@ -183,6 +186,14 @@
 				"encoding": "UTF-8",
 				"line_ending": "Unix",
 				"name": "---"
+			}
+		},
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 1207,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -230,8 +241,7 @@
 		"/home/kostasl/neuromikron/_layouts",
 		"/home/kostasl/neuromikron/_sass",
 		"/home/kostasl/neuromikron/_sections",
-		"/home/kostasl/neuromikron/_site",
-		"/home/kostasl/neuromikron/_site/2018"
+		"/home/kostasl/neuromikron/_site"
 	],
 	"file_history":
 	[
@@ -274,7 +284,7 @@
 	"groups":
 	[
 		{
-			"selected": 13,
+			"selected": 18,
 			"sheets":
 			[
 				{
@@ -301,7 +311,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 18,
+					"stack_index": 19,
 					"type": "text"
 				},
 				{
@@ -329,7 +339,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 14,
+					"stack_index": 15,
 					"type": "text"
 				},
 				{
@@ -357,7 +367,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 15,
+					"stack_index": 16,
 					"type": "text"
 				},
 				{
@@ -385,7 +395,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 16,
+					"stack_index": 17,
 					"type": "text"
 				},
 				{
@@ -413,7 +423,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 17,
+					"stack_index": 18,
 					"type": "text"
 				},
 				{
@@ -429,8 +439,8 @@
 						"selection":
 						[
 							[
-								382,
-								382
+								549,
+								549
 							]
 						],
 						"settings":
@@ -443,7 +453,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -471,7 +481,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 12,
+					"stack_index": 13,
 					"type": "text"
 				},
 				{
@@ -499,7 +509,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 11,
+					"stack_index": 9,
 					"type": "text"
 				},
 				{
@@ -528,7 +538,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 10,
+					"stack_index": 12,
 					"type": "text"
 				},
 				{
@@ -557,7 +567,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 9,
+					"stack_index": 11,
 					"type": "text"
 				},
 				{
@@ -566,15 +576,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 329,
+						"buffer_size": 343,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								329,
-								329
+								180,
+								180
 							]
 						],
 						"settings":
@@ -585,7 +595,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
@@ -594,15 +604,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1472,
+						"buffer_size": 2038,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1377,
-								1377
+								2038,
+								2038
 							]
 						],
 						"settings":
@@ -613,7 +623,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -622,15 +632,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1306,
+						"buffer_size": 145,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								563,
-								563
+								40,
+								40
 							]
 						],
 						"settings":
@@ -641,7 +651,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 8,
 					"type": "text"
 				},
 				{
@@ -669,7 +679,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 10,
 					"type": "text"
 				},
 				{
@@ -685,8 +695,8 @@
 						"selection":
 						[
 							[
-								548,
-								548
+								43,
+								43
 							]
 						],
 						"settings":
@@ -699,24 +709,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
 					"buffer": 15,
 					"file": "_sections/publications.md",
-					"semi_transient": true,
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1279,
+						"buffer_size": 1254,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								261,
+								261
 							]
 						],
 						"settings":
@@ -736,15 +746,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 720,
+						"buffer_size": 976,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								720,
-								720
+								18,
+								18
 							]
 						],
 						"settings":
@@ -757,7 +767,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
@@ -787,7 +797,7 @@
 						"translation.y": 609.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 13,
+					"stack_index": 14,
 					"type": "text"
 				},
 				{
@@ -816,7 +826,35 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "Gemfile",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1207,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]

@@ -8,7 +8,7 @@ order: 3
 
 This is still in the making, but in any case here I intend to list all publication contributions and note how they intersect with the main focus [see Research](#research-focus): 
 
-1. Using an insect mushroom body circuit to encode route memory in complex natural environments
+1. [Using an insect mushroom body circuit to encode route memory in complex natural environments](https://dx.doi.org/10.1371%2Fjournal.pcbi.1004683)
 2. Continuous lateral oscillations as a core mechanism for taxis in Drosophila larvae
 3. The rise and fall of memory in a model of synaptic integration
 4. Taming fluctuations in a stochastic model of spike-timing-dependent plasticity
