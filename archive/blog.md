@@ -1,8 +1,8 @@
 ---
 layout: blog
-title:  The Blog (To be) 
+title:  The archive  
 permalink: /blog/
 order : 2
 ---
 
-There is nothing here - But a glimpse of motivation to start writing.
+Who knows maybe one day I will start blogging. 
