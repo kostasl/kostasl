@@ -3,19 +3,20 @@ title: Reading List
 subtitle: a list of books I read
 layout: "page"
 icon: fa-book
-order: 4
+order: 6
 ---
 
 As a token of appreciation to my lovely books, I thought it would be nice to share a list of things I've read or may be reading right now, as I return to some of them and consult them from time to time. These are listed in no particular order
 
 ### General reading:
-1. *Debpt the first 5000 years*,David Graeber 
+1. *Debt the first 5000 years*,David Graeber 
 2. "Thinking Fast and Slow", Daniel Kahneman 
 3. "Outliers" , Malcolm Gladwell, 
 4. "The Human Network", Matthew Jackson, 
-5. "Report to greco", Nikos Kazantzakis : 
+5. "Report to Greco", Nikos Kazantzakis : 
 6. "The One dimensional man", Herbert Markuse 
 7. "Mani: Travels in the Southern Peloponnese", Patrick Leigh Fermor 
+8. "Ecological Rationality", Peter Todd , Gigerenzer, Gerd (Ed)
 
 ### Science/Neuroscience
 

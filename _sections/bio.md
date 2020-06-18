@@ -2,7 +2,7 @@
 title: Short Bio
 auto-header: none
 icon: fa-comment
-order: 2
+order: 5
 ---
 
 

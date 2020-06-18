@@ -13,7 +13,7 @@ to share  ideas, thoughts and projects of neuroscience and engineering.
 
 
 <footer>
-  <a href="#short-bio" class="button scrolly">Bio story</a> <a href="#research-focus" class="button scrolly">Research</a>  <a href="#publications" class="button scrolly">Publications</a>  <a href="#reading-list" class="button scrolly">Reading List</a>
+   <a href="#research-focus" class="button scrolly">Research</a>  <a href="#publications" class="button scrolly">Publications</a>  <a href="#reading-list" class="button scrolly">Reading List</a> <a href="#short-bio" class="button scrolly">Bio story</a>
   
 </footer>
 
