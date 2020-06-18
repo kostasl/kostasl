@@ -46,33 +46,11 @@
 			}
 		},
 		{
-			"contents": "---\n# Feel free to add content and custom Front Matter to this file.\n# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults\n\n\nlayout: page\n---\n\n\nThis is an _attempt_ to produce an online place for outreach, where I get to introduce my self and share:  ideas, thoughts and projects from neuroscience to hacker projects.  \n\n[Publications](./publications.md).\n\n\n[Reading list](./reading-list.md).\n\n\n\n\nThere should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.\n\n# Header 1\n\nThis is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.\n\n## Header 2\n\n> This is a blockquote following a header.\n>\n> When something is important enough, you do it even if the odds are not in your favor.\n\n### Header 3\n\n```js\n// Javascript code with syntax highlighting.\nvar fun = function lang(l) {\n  dateformat.i18n = require('./lang/' + l)\n  return true;\n}\n```\n\n```ruby\n# Ruby code with syntax highlighting\nGitHubPages::Dependencies.gems.each do |gem, version|\n  s.add_dependency(gem, \"= #{version}\")\nend\n```\n\n#### Header 4\n\n*   This is an unordered list following a header.\n*   This is an unordered list following a header.\n*   This is an unordered list following a header.\n\n##### Header 5\n\n1.  This is an ordered list following a header.\n2.  This is an ordered list following a header.\n3.  This is an ordered list following a header.\n\n###### Header 6\n\n| head1        | head two          | three |\n|:-------------|:------------------|:------|\n| ok           | good swedish fish | nice  |\n| out of stock | good and plenty   | nice  |\n| ok           | good `oreos`      | hmm   |\n| ok           | good `zoute` drop | yumm  |\n\n### There's a horizontal rule below this.\n\n* * *\n\n### Here is an unordered list:\n\n*   Item foo\n*   Item bar\n*   Item baz\n*   Item zip\n\n### And an ordered list:\n\n1.  Item one\n1.  Item two\n1.  Item three\n1.  Item four\n\n### And a nested list:\n\n- level 1 item\n  - level 2 item\n  - level 2 item\n    - level 3 item\n    - level 3 item\n- level 1 item\n  - level 2 item\n  - level 2 item\n  - level 2 item\n- level 1 item\n  - level 2 item\n  - level 2 item\n- level 1 item\n\n### Small image\n\n![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)\n\n### Large image\n\n![Branching](https://guides.github.com/activities/hello-world/branching.png)\n\n\n### Definition lists can be used with HTML syntax.\n\n<dl>\n<dt>Name</dt>\n<dd>Godzilla</dd>\n<dt>Born</dt>\n<dd>1952</dd>\n<dt>Birthplace</dt>\n<dd>Japan</dd>\n<dt>Color</dt>\n<dd>Green</dd>\n</dl>\n\n```\nLong, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.\n```\n\n```\nThe final element.\n```\n",
-			"file": "index.markdown",
-			"file_size": 2852,
-			"file_write_time": 132267538644104381,
-			"settings":
-			{
-				"buffer_size": 2852,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "_sections/intro.md",
 			"settings":
 			{
-				"buffer_size": 549,
+				"buffer_size": 614,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "# Contributing to The Dinky Theme\n\nHi there! We're thrilled that you'd like to contribute to The Dinky Theme. Your help is essential for keeping it great.\n\nThe Dinky Theme is an open source project supported by the efforts of an entire community and built one contribution at a time by users like you. We'd love for you to get involved. Whatever your level of skill or however much time you can give, your contribution is greatly appreciated. There are many ways to contribute, from writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests, helping other users by commenting on issues, or writing code which can be incorporated into The Dinky Theme itself.\n\nFollowing these guidelines helps to communicate that you respect the time of the developers managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.\n\n\n## Looking for support?\n\nWe'd love to help. Check out [the support guidelines](SUPPORT.md).\n\n## How to report a bug\n\nThink you found a bug? Please check [the list of open issues](https://github.com/pages-themes/dinky/issues) to see if your bug has already been reported. If it hasn't please [submit a new issue](https://github.com/pages-themes/dinky/issues/new).\n\nHere are a few tips for writing *great* bug reports:\n\n* Describe the specific problem (e.g., \"widget doesn't turn clockwise\" versus \"getting an error\")\n* Include the steps to reproduce the bug, what you expected to happen, and what happened instead\n* Check that you are using the latest version of the project and its dependencies\n* Include what version of the project your using, as well as any relevant dependencies\n* Only include one bug per issue. If you have discovered two bugs, please file two issues\n* Even if you don't know how to fix the bug, including a failing test may help others track it down\n\n**If you find a security vulnerability, do not open an issue. Please email security@github.com instead.**\n\n## How to suggest a feature or enhancement\n\nIf you find yourself wishing for a feature that doesn't exist in The Dinky Theme, you are probably not alone. There are bound to be others out there with similar needs. Many of the features that The Dinky Theme has today have been added because our users saw the need.\n\nFeature requests are welcome. But take a moment to find out whether your idea fits with the scope and goals of the project. It's up to you to make a strong case to convince the project's developers of the merits of this feature. Please provide as much detail and context as possible, including describing the problem you're trying to solve.\n\n[Open an issue](https://github.com/pages-themes/dinky/issues/new) which describes the feature you would like to see, why you want it, how it should work, etc.\n\n\n\n## Your first contribution\n\nWe'd love for you to contribute to the project. Unsure where to begin contributing to The Dinky Theme? You can start by looking through these \"good first issue\" and \"help wanted\" issues:\n\n* [Good first issues](https://github.com/pages-themes/dinky/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) - issues which should only require a few lines of code and a test or two\n* [Help wanted issues](https://github.com/pages-themes/dinky/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) - issues which may be a bit more involved, but are specifically seeking community contributions\n\n*p.s. Feel free to ask for help; everyone is a beginner at first* :smiley_cat:\n\n## How to propose changes\n\nHere's a few general guidelines for proposing changes:\n\n* If you are making visual changes, include a screenshot of what the affected element looks like, both before and after.\n* Follow the [Jekyll style guide](https://ben.balter.com/jekyll-style-guide).\n* If you are changing any user-facing functionality, please be sure to update the documentation\n* Each pull request should implement **one** feature or bug fix. If you want to add or fix more than one thing, submit more than one pull request\n* Do not commit changes to files that are irrelevant to your feature or bug fix\n* Don't bump the version number in your pull request (it will be bumped prior to release)\n* Write [a good commit message](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)\n\nAt a high level, [the process for proposing changes](https://guides.github.com/introduction/flow/) is:\n\n1. [Fork](https://github.com/pages-themes/dinky/fork) and clone the project\n2. Configure and install the dependencies: `script/bootstrap`\n3. Make sure the tests pass on your machine: `script/cibuild`\n4. Create a new branch: `git checkout -b my-branch-name`\n5. Make your change, add tests, and make sure the tests still pass\n6. Push to your fork and [submit a pull request](https://github.com/pages-themes/dinky/compare)\n7. Pat your self on the back and wait for your pull request to be reviewed and merged\n\n**Interesting in submitting your first Pull Request?** It's easy! You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)\n\n## Bootstrapping your local development environment\n\n`script/bootstrap`\n\n## Running tests\n\n`script/cibuild`\n\n## Code of conduct\n\nThis project is governed by [the Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.\n\n## Additional Resources\n\n* [Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/)\n* [Using Pull Requests](https://help.github.com/articles/using-pull-requests/)\n* [GitHub Help](https://help.github.com)\n",
-			"file": "_site/docs/CONTRIBUTING.md",
-			"file_size": 5779,
-			"file_write_time": 132035384280000000,
-			"settings":
-			{
-				"buffer_size": 5779,
 				"line_ending": "Unix"
 			}
 		},
@@ -85,10 +63,26 @@
 			}
 		},
 		{
+			"file": "_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 315,
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "_layouts/page.html",
 			"settings":
 			{
 				"buffer_size": 330,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/post.html",
+			"settings":
+			{
+				"buffer_size": 361,
 				"line_ending": "Unix"
 			}
 		},
@@ -101,10 +95,18 @@
 			}
 		},
 		{
+			"file": "_includes/section.html",
+			"settings":
+			{
+				"buffer_size": 1260,
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "_sections/reading-list.md",
 			"settings":
 			{
-				"buffer_size": 1303,
+				"buffer_size": 1444,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -113,7 +115,7 @@
 			"file": "_sections/bio.md",
 			"settings":
 			{
-				"buffer_size": 2038,
+				"buffer_size": 2040,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -160,7 +162,7 @@
 			"file": "_sections/research-focus.md",
 			"settings":
 			{
-				"buffer_size": 1176,
+				"buffer_size": 2461,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -262,10 +264,16 @@
 	},
 	"expanded_folders":
 	[
-		"/home/kostasl/neuromikron"
+		"/home/kostasl/neuromikron",
+		"/home/kostasl/neuromikron/_includes",
+		"/home/kostasl/neuromikron/_layouts",
+		"/home/kostasl/neuromikron/_posts",
+		"/home/kostasl/neuromikron/_sections"
 	],
 	"file_history":
 	[
+		"/home/kostasl/neuromikron/index.markdown",
+		"/home/kostasl/neuromikron/_site/docs/CONTRIBUTING.md",
 		"/home/kostasl/neuromikron/_sections/into.md",
 		"/home/kostasl/.config/sublime-text-3/Packages/Jekyll/Jekyll.sublime-settings",
 		"/home/kostasl/.config/sublime-text-3/Packages/User/Jekyll.sublime-settings",
@@ -306,7 +314,7 @@
 	"groups":
 	[
 		{
-			"selected": 18,
+			"selected": 7,
 			"sheets":
 			[
 				{
@@ -333,7 +341,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 22,
+					"stack_index": 23,
 					"type": "text"
 				},
 				{
@@ -358,10 +366,10 @@
 							"syntax": "Packages/YAML/YAML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 271.0,
+						"translation.y": 412.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 13,
 					"type": "text"
 				},
 				{
@@ -389,7 +397,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 19,
+					"stack_index": 22,
 					"type": "text"
 				},
 				{
@@ -417,54 +425,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 20,
+					"stack_index": 8,
 					"type": "text"
 				},
 				{
 					"buffer": 4,
-					"file": "index.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2852,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								177,
-								177
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 21,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
 					"file": "_sections/intro.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 549,
+						"buffer_size": 614,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								549,
-								549
+								345,
+								345
 							]
 						],
 						"settings":
@@ -477,44 +455,44 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 11,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 6,
-					"file": "_site/docs/CONTRIBUTING.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5779,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 17,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
+					"buffer": 5,
 					"file": "_layouts/home.html",
 					"semi_transient": false,
 					"settings":
 					{
 						"buffer_size": 607,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								160,
+								160
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "_layouts/default.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 315,
 						"regions":
 						{
 						},
@@ -533,11 +511,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 14,
+					"stack_index": 11,
 					"type": "text"
 				},
 				{
-					"buffer": 8,
+					"buffer": 7,
 					"file": "_layouts/page.html",
 					"semi_transient": false,
 					"settings":
@@ -562,7 +540,36 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 9,
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "_layouts/post.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 361,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
 					"type": "text"
 				},
 				{
@@ -591,57 +598,29 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 16,
+					"stack_index": 9,
 					"type": "text"
 				},
 				{
 					"buffer": 10,
-					"file": "_sections/reading-list.md",
-					"semi_transient": false,
+					"file": "_includes/section.html",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 1303,
+						"buffer_size": 1260,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								695,
-								695
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 11,
-					"file": "_sections/bio.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2038,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2038,
-								2038
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -651,7 +630,63 @@
 					"type": "text"
 				},
 				{
+					"buffer": 11,
+					"file": "_sections/reading-list.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1444,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1444,
+								1444
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
 					"buffer": 12,
+					"file": "_sections/bio.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2040,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								64,
+								64
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
 					"file": "about.markdown",
 					"semi_transient": false,
 					"settings":
@@ -675,11 +710,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 13,
+					"stack_index": 19,
 					"type": "text"
 				},
 				{
-					"buffer": 13,
+					"buffer": 14,
 					"file": "/home/kostasl/Dropbox/WriteUp/ExpLog/ClosedLoop-zfishImaging/notes_closedloop.md",
 					"semi_transient": false,
 					"settings":
@@ -703,11 +738,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 15,
+					"stack_index": 20,
 					"type": "text"
 				},
 				{
-					"buffer": 14,
+					"buffer": 15,
 					"file": "_sections/projects.md",
 					"semi_transient": false,
 					"settings":
@@ -719,8 +754,8 @@
 						"selection":
 						[
 							[
-								43,
-								43
+								38,
+								38
 							]
 						],
 						"settings":
@@ -733,11 +768,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 12,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
-					"buffer": 15,
+					"buffer": 16,
 					"file": "_sections/publications.md",
 					"semi_transient": false,
 					"settings":
@@ -761,24 +796,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
-					"buffer": 16,
+					"buffer": 17,
 					"file": "_sections/research-focus.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1176,
+						"buffer_size": 2461,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1176,
-								1176
+								51,
+								51
 							]
 						],
 						"settings":
@@ -795,7 +830,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 17,
+					"buffer": 18,
 					"file": "/home/kostasl/Dropbox/WriteUp/Articles/zebrafishDev_MS/Reviews/review_Response.txt",
 					"semi_transient": false,
 					"settings":
@@ -819,11 +854,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 17,
 					"type": "text"
 				},
 				{
-					"buffer": 18,
+					"buffer": 19,
 					"file": "/home/kostasl/Dropbox/WriteUp/Reviews-Feedback/LM2020/LM2020_Review.txt",
 					"semi_transient": false,
 					"settings":
@@ -848,11 +883,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 16,
 					"type": "text"
 				},
 				{
-					"buffer": 19,
+					"buffer": 20,
 					"file": "blog.md",
 					"semi_transient": false,
 					"settings":
@@ -876,11 +911,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 14,
 					"type": "text"
 				},
 				{
-					"buffer": 20,
+					"buffer": 21,
 					"semi_transient": false,
 					"settings":
 					{
@@ -904,11 +939,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 18,
 					"type": "text"
 				},
 				{
-					"buffer": 21,
+					"buffer": 22,
 					"file": "_sections/example.md",
 					"semi_transient": false,
 					"settings":
@@ -934,11 +969,11 @@
 						"translation.y": 609.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 18,
+					"stack_index": 21,
 					"type": "text"
 				},
 				{
-					"buffer": 22,
+					"buffer": 23,
 					"file": "index.md",
 					"semi_transient": false,
 					"settings":
@@ -963,7 +998,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 15,
 					"type": "text"
 				}
 			]
