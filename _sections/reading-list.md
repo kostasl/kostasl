@@ -26,3 +26,4 @@ As a token of appreciation to my lovely books, I thought it would be nice to sha
 5. "Principles of Neural Design", Peter Sterling and Simon Laughlin, 
 6. "Methods in Neuronal Modeling, From Ions to Networks 2nd Edition", Edited volume by Christof Koch and Idan Segev, 
 7. "Principles of Neural Information Theory, Computational Neuroscience and Metabolic Efficiency", James V Stone.  
+8. "Philosophical Foundations Of Neuroscience", M.R. Bennett and P.M.S. Hacker

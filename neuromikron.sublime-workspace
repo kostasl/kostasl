@@ -104,7 +104,7 @@
 			"file": "_sections/reading-list.md",
 			"settings":
 			{
-				"buffer_size": 343,
+				"buffer_size": 1303,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -133,7 +133,7 @@
 			"file": "/home/kostasl/Dropbox/WriteUp/ExpLog/ClosedLoop-zfishImaging/notes_closedloop.md",
 			"settings":
 			{
-				"buffer_size": 16138,
+				"buffer_size": 17736,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -151,20 +151,53 @@
 			"file": "_sections/publications.md",
 			"settings":
 			{
-				"buffer_size": 1254,
+				"buffer_size": 1307,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"contents": "---\ntitle: Research focus\nicon: fa-th\norder: 5\n---\n\n\nMy research aims to understand how brains operate by studying simple behaviours to uncover the mechanisms and principles of operation.\nThis is done while taking into account the ecological rationality of the specific behaviours and the possible heurestic computations available to the animal in that context.\nThis understanding is to be encapsulated by minimal models that characterize the core mechanisms of how embodied nervous systems allow for cognition and produce goal directed behaviour. \nThis approach I believe provides a promissing route to a theoretical framework that willl allow for converting brain data into fundamental knowledge and organising principles of how sensory stimuli drive behaviour.\n\n\nNervertheless I am fascinated by diverse areas such as immune systems, ecology and neural development and circuit assembly,  although the opportunity and skills to work on such things has yet to arrive.      \n\n",
 			"file": "_sections/research-focus.md",
-			"file_size": 977,
-			"file_write_time": 132272805998851071,
 			"settings":
 			{
-				"buffer_size": 976,
+				"buffer_size": 1176,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/kostasl/Dropbox/WriteUp/Articles/zebrafishDev_MS/Reviews/review_Response.txt",
+			"settings":
+			{
+				"buffer_size": 27003,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/kostasl/Dropbox/WriteUp/Reviews-Feedback/LM2020/LM2020_Review.txt",
+			"settings":
+			{
+				"buffer_size": 5026,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blog.md",
+			"settings":
+			{
+				"buffer_size": 145,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "curl -i -XPOST \"http://omikronpi:curl -i -XPOST \"http://omikronpi:8086/write?db=logger_db\" --data-binary \"roomTemp,host=neonPi,room=Aquarium temperaturevalue=${temp}\"/write?db=logger_db\" --data-binary \"roomTemp,host=neonPi,room=Aquarium temperaturevalue=${temp}\"",
+			"settings":
+			{
+				"buffer_size": 262,
+				"line_ending": "Unix",
+				"name": "curl -i -XPOST \"http://omikronpi:curl -i -XPOST \"h"
 			}
 		},
 		{
@@ -186,14 +219,6 @@
 				"encoding": "UTF-8",
 				"line_ending": "Unix",
 				"name": "---"
-			}
-		},
-		{
-			"file": "Gemfile",
-			"settings":
-			{
-				"buffer_size": 1207,
-				"line_ending": "Unix"
 			}
 		}
 	],
@@ -237,11 +262,7 @@
 	},
 	"expanded_folders":
 	[
-		"/home/kostasl/neuromikron",
-		"/home/kostasl/neuromikron/_layouts",
-		"/home/kostasl/neuromikron/_sass",
-		"/home/kostasl/neuromikron/_sections",
-		"/home/kostasl/neuromikron/_site"
+		"/home/kostasl/neuromikron"
 	],
 	"file_history":
 	[
@@ -253,7 +274,7 @@
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
@@ -267,6 +288,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"condition"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -311,7 +333,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 19,
+					"stack_index": 22,
 					"type": "text"
 				},
 				{
@@ -327,8 +349,8 @@
 						"selection":
 						[
 							[
-								1099,
-								1099
+								2220,
+								2220
 							]
 						],
 						"settings":
@@ -336,10 +358,10 @@
 							"syntax": "Packages/YAML/YAML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 271.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 15,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
@@ -367,7 +389,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 16,
+					"stack_index": 19,
 					"type": "text"
 				},
 				{
@@ -395,7 +417,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 17,
+					"stack_index": 20,
 					"type": "text"
 				},
 				{
@@ -417,13 +439,15 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 18,
+					"stack_index": 21,
 					"type": "text"
 				},
 				{
@@ -453,7 +477,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 11,
 					"type": "text"
 				},
 				{
@@ -481,7 +505,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 13,
+					"stack_index": 17,
 					"type": "text"
 				},
 				{
@@ -509,7 +533,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 9,
+					"stack_index": 14,
 					"type": "text"
 				},
 				{
@@ -538,7 +562,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 12,
+					"stack_index": 9,
 					"type": "text"
 				},
 				{
@@ -567,7 +591,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 11,
+					"stack_index": 16,
 					"type": "text"
 				},
 				{
@@ -576,15 +600,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 343,
+						"buffer_size": 1303,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								180,
-								180
+								695,
+								695
 							]
 						],
 						"settings":
@@ -595,7 +619,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 8,
 					"type": "text"
 				},
 				{
@@ -623,7 +647,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 10,
 					"type": "text"
 				},
 				{
@@ -651,7 +675,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 13,
 					"type": "text"
 				},
 				{
@@ -660,7 +684,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 16138,
+						"buffer_size": 17736,
 						"regions":
 						{
 						},
@@ -679,7 +703,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 10,
+					"stack_index": 15,
 					"type": "text"
 				},
 				{
@@ -709,7 +733,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 12,
 					"type": "text"
 				},
 				{
@@ -718,15 +742,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1254,
+						"buffer_size": 1307,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								261,
-								261
+								282,
+								282
 							]
 						],
 						"settings":
@@ -737,7 +761,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
@@ -746,15 +770,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 976,
+						"buffer_size": 1176,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								18,
-								18
+								1176,
+								1176
 							]
 						],
 						"settings":
@@ -764,6 +788,91 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
+						"translation.y": 17.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "/home/kostasl/Dropbox/WriteUp/Articles/zebrafishDev_MS/Reviews/review_Response.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 27003,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2484,
+								2484
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "/home/kostasl/Dropbox/WriteUp/Reviews-Feedback/LM2020/LM2020_Review.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5026,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								574,
+								574
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "blog.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
@@ -771,7 +880,35 @@
 					"type": "text"
 				},
 				{
-					"buffer": 17,
+					"buffer": 20,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 262,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								262,
+								262
+							]
+						],
+						"settings":
+						{
+							"auto_name": "curl -i -XPOST \"http://omikronpi:curl -i -XPOST \"h",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
 					"file": "_sections/example.md",
 					"semi_transient": false,
 					"settings":
@@ -797,11 +934,11 @@
 						"translation.y": 609.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 14,
+					"stack_index": 18,
 					"type": "text"
 				},
 				{
-					"buffer": 18,
+					"buffer": 22,
 					"file": "index.md",
 					"semi_transient": false,
 					"settings":
@@ -826,35 +963,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 19,
-					"file": "Gemfile",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 1207,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -862,7 +971,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 27.0
 	},
 	"input":
 	{
@@ -899,7 +1008,7 @@
 	"project": "neuromikron.sublime-project",
 	"replace":
 	{
-		"height": 0.0
+		"height": 50.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -937,7 +1046,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 392.0,
+	"side_bar_width": 220.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
