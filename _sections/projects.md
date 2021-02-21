@@ -1,7 +1,7 @@
 ---
 title: Making
 icon: fa-th
-order: 5
+order: 4
 ---
 
 I am easily taken in by engineering projects and do-it-yourself, and maker projects.
