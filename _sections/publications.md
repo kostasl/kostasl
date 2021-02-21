@@ -9,12 +9,12 @@ order: 3
 This is still in the making, but in any case here I intend to list all publication contributions and note how they intersect with the main focus [see Research](#research-focus): 
 
 
-You can find an automatically generated publication list on my [Google Scholar Profile](https://scholar.google.com/citations?user=OXF6PlUAAAAJ&hl=en&oi=ao)
+You can find an automatically generated publication list on my *[Google Scholar Profile](https://scholar.google.com/citations?user=OXF6PlUAAAAJ&hl=en&oi=ao)*
 
-or on my [ORCID profile](https://orcid.org/0000-0001-9349-801X)
+or on my *[ORCID profile](https://orcid.org/0000-0001-9349-801X)*
 
 
-<pre><iframe width="100%" height="477" src="https://scholar.google.com/citations?user=OXF6PlUAAAAJ&hl=en&oi=ao" frameborder="0" rel="0" allow="encrypted-media" allowfullscreen></iframe></pre>
+<!--<pre><iframe width="100%" height="477" src="https://scholar.google.com/citations?user=OXF6PlUAAAAJ&hl=en&oi=ao" frameborder="0" rel="0" allow="encrypted-media" allowfullscreen></iframe></pre>-->
 
 ## Patents
 
