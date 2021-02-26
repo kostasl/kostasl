@@ -20,8 +20,9 @@ Especially when the pressure is to carry on with research and make the next expe
 
 I will try to collect some of my works and share here:
 
-1. [3D printed Optical Slit design for DYI Light-sheet microscope](https://cad.onshape.com/documents/e2989669a249a84f3d34795a/w/2316bf5b7371057718f6a064/e/0ec593a92e364a7f575f407a)
+1. [3D printed Optical Slit design for DYI Light-sheet microscope](https://cad.onshape.com/documents/e2989669a249a84f3d34795a/w/2316bf5b7371057718f6a064/e/68a2ba408584b1c1c4241540)
    I made a little affordable light-sheet microscope at home, using plastic lenses and cheap laser. I have yet to document the whole project, but this optical slit may come in handy.
+   
 1. [Half-light ring holder for 35mm petridish arena for microscope mounted experiments](https://cad.onshape.com/documents/d0fc86446e7332e5cc0da078/w/572e1355dbb929749a8153f5/e/7f476d67bc2b59f7ed11b25e)
     This half arena allows for showing visual stimuli on side, while illuminating with IR on the other. The behaviooural recording camera is mounted from below. 
 1. [IR LED ring holder for 35mm petridish arena (Autodesk Inventor file)](https://cad.onshape.com/documents/fbfdd81b4eb376409ab08de8/w/678074c3ee30109b566cdfc9/e/950330e3d3ebb4c5d5e5058b)
