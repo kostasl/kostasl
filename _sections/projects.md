@@ -30,6 +30,9 @@ I will try to collect some of my works and share here:
 1. [LED bar, for building custom IR illumination stages](https://cad.onshape.com/documents/09089b6d59ab93e061e7ffa5/w/c411326a0b6039e9f9462551/e/658c6f6dccfd52afe84f879f)
    Was used to build a Drosophila larva arena behavioural recording arena by combining 4 of these to build a rectangle and and mounting a square perspex in the center.
 1. [An automated pippeting / liquid handling robot](https://www.youtube.com/watch?app=desktop&v=jlGT0nzT_E8)    
+1. [An interval timer for martial arts gyms](https://www.instagram.com/omikronpitimer/)
+I made this for the gym where I train BJJ. Since then a few other gyms saw it and asked me to make them such a bespoke interval timer.
+Get in touch for the code
 
 ### Software
 I am a proponent of open-source and in love with its accessibility and diversity. 
@@ -45,12 +48,10 @@ You can find the source code for Jekyll on GitHub
 software:
 
 1. [A behavioural tail tracker for tethered zebrafish larvae](https://github.com/kostasl/TailTracker)
-   Use this for tracking the tail behaviour while calcium imaging zebrafish larva brains.  
+   Use this for tracking the tail behaviour while calcium imaging a zebrafish larva under a 2-photon microscope, with tail free to move.  
 1. [A fast ellipse detect algorithm](https://github.com/kostasl/ellipseDetect)
-1. A behavioural tracker for freely swimming larvae (tba) 
-1. A ROI triggered FLIR camera recorder (tba)
-1. [An interval timer for martial arts gyms](https://github.com/kostasl/IntervalTimerbjj)
-
+1. [A behavioural tracker for freely swimming larvae in 35mm dish](https://github.com/kostasl/zebrafish_tracker)  
+1. [A ROI event triggered FLIR camera recorder, with ability to capture frames preceding trigger event](https://github.com/kostasl/zebrafishtrack_cam)
 
 <!--
 ### Large image

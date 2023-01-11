@@ -27,6 +27,7 @@ neural and behavioural principles of adaptive behaviour using the amazing zebraf
 
 [_Continued_]
 
-[LinkedIn profile](https://www.linkedin.com/in/kostas-lagogiannis-13b6583/)
-
-
+[LinkedIn](https://www.linkedin.com/in/kostas-lagogiannis-13b6583/)
+[Github ](https://github.com/kostasl)
+[Gitlab ](https://gitlab.com/kostasl/)
+[ORCID ](https://orcid.org/0000-0001-9349-801X)
